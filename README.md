@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Õpiväljundid
 
+[ÕV](https://github.com/lumiire/tluhk_kursus-x/blob/main/opivaljundid.md)
+
 Hac habitasse platea dictumst vestibulum. Consequat interdum varius sit amet mattis vulputate enim. Vulputate dignissim suspendisse in est ante. Lectus vestibulum mattis ullamcorper velit. Elit scelerisque mauris pellentesque pulvinar pellentesque. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. Scelerisque fermentum dui faucibus in ornare. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Nunc id cursus metus aliquam eleifend mi. Pellentesque elit eget gravida cum. Nunc non blandit massa enim nec dui. Sagittis eu volutpat odio facilisis mauris sit. Sed velit dignissim sodales ut. Vitae sapien pellentesque habitant morbi tristique. In hac habitasse platea dictumst vestibulum rhoncus. Enim nec dui nunc mattis enim ut tellus elementum sagittis. Turpis egestas sed tempus urna et pharetra pharetra. Non arcu risus quis varius quam quisque id diam. Felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices.
 
 ## Loengud
