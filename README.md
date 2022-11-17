@@ -23,6 +23,8 @@ Hac habitasse platea dictumst vestibulum. Consequat interdum varius sit amet mat
 
 ## Loengud
 
+[15.09](https://github.com/lumiire/tluhk_kursus-x/edit/main/loengud/kohtumine1.md)
 
+[21.10](https://github.com/lumiire/tluhk_kursus-x/blob/main/loengud/kohtumine2.md)
 
-
+[11.11](https://github.com/lumiire/tluhk_kursus-x/blob/main/loengud/kohtumine3.md)
