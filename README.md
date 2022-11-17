@@ -1,6 +1,8 @@
 # tluhk_kursus-x
-Testimine Valikpraktika raames
+##Hindamismudel
 
-[Ainekaart](https://github.com/renidalumi/tluhk_kursus-x/blob/main/Ainekaart.md)
+Riiklikus õppekavas on märgitud, et "Õpilased võtavad võimetekohaselt osa oma õppimise eesmärgistamisest, kavandamisest ja hindamisest." Hindamismudelid pakuvad selleks võimaluse.
 
-[Õpiväljundid](renidalumi/tluhk_kursus-x/blob/main/opivaljundid.md)
+Hoolikalt koostatud hindamismudel võimaldab õpetajal ja õppijatel erapooletult hinnata, mida õpilased on või pole õppinud. Hindamismudelid aitavad motiveerida õpilasi läbi hindamise. Õpilastele antakse täpselt teada, mida neilt oodatakse ja kindlustatakse, et nende saavutusi ning hinnanguid tunnustatakse. Õpilased tunnevad end hindamisprotsessi väärtuslike liikmetena.
+
+Hindamismudelid arendavad õpilaste kriitilist mõtlemist, on seotud autentsete õppeülesannetega, õpetavad õpilasi ennast ja oma kaaslase tööd hindama, annavad tagasisidet tehtud tööst nii õpilastele kui ka õpetajale. Hindamismudelid on otseselt seotud koolipraktikas kõige suuremat tunnustust pälvinud Bloomi kognitiivse taksonoomia viimase taseme ehk hindamisega.
