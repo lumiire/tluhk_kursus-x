@@ -7,11 +7,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Teemad
 
-[CSS](https://github.com/lumiire/tluhk_kursus-x/blob/main/teemad/css.md)
+[CSS](teemad/css.md)
 
-[HTML](https://github.com/lumiire/tluhk_kursus-x/blob/main/teemad/html.md)
+[HTML](teemad/html.md)
 
-[WordPress](https://github.com/lumiire/tluhk_kursus-x/blob/main/teemad/wordpress.md)
+[WordPress](teemad/wordpress.md)
 
 ## Hindamine
 
@@ -25,8 +25,8 @@ Hac habitasse platea dictumst vestibulum. Consequat interdum varius sit amet mat
 
 ## Loengud
 
-[15.09](https://github.com/lumiire/tluhk_kursus-x/edit/main/loengud/kohtumine1.md)
+[15.09](kohtumine1.md)
 
-[21.10](https://github.com/lumiire/tluhk_kursus-x/blob/main/loengud/kohtumine2.md)
+[21.10](kohtumine2.md)
 
-[11.11](https://github.com/lumiire/tluhk_kursus-x/blob/main/loengud/kohtumine3.md)
+[11.11](kohtumine3.md)
