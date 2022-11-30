@@ -25,8 +25,8 @@ Hac habitasse platea dictumst vestibulum. Consequat interdum varius sit amet mat
 
 ## Loengud
 
-[15.09](kohtumine1.md)
+[15.09](loengud/kohtumine1.md)
 
-[21.10](kohtumine2.md)
+[21.10](loengud/kohtumine2.md)
 
-[11.11](kohtumine3.md)
+[11.11](loengud/kohtumine3.md)
